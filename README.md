@@ -1,0 +1,2 @@
+# python-assingment-pwskills
+python
